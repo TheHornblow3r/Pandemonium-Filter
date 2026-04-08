@@ -113,29 +113,29 @@ ItemDisplay[cx9]: %NL%%RED%O %GOLD%Orb Of Alteration %RED%O%NL%%GOLD% <:BASICHIG
 //ItemDisplay[MAP ma21]: %TEAL%Whispering Cave Relic%NL%%ITEMNAME% {%ORANGE%Physical,%GOLD% Magic,%RED% Fire,%BLUE% Cold,%GREEN% Poison,%YELLOW% Lightning%NL%%WHITE%Randomly Picks 3 Immunities from:}
 //ItemDisplay[MAP ma22]: %TEAL%Hellfire Throne Relic%NL%%ITEMNAME% {%ORANGE%Physical,%GOLD% Magic,%RED% Fire,%BLUE% Cold,%GREEN% Poison,%YELLOW% Lightning%NL%%WHITE%Randomly Picks 3 Immunities from:}
 //ItemDisplay[MAP ma23]: %TEAL%Underground Lake Relic%NL%%ITEMNAME% {%ORANGE%Physical,%GOLD% Magic,%RED% Fire,%BLUE% Cold,%GREEN% Poison,%YELLOW% Lightning%NL%%WHITE%Randomly Picks 3 Immunities from:}
-//ItemDisplay[MAP !ID MAG MAPTIER=2]: %YELLOW%O %BLUE%%NAME% %YELLOW%O %CORAL%[T2] <<MAP2Y>>
-//ItemDisplay[MAP !ID RARE MAPTIER=2]: %YELLOW%O %TAN%%NAME% %YELLOW%O %CORAL%[T2] <<MAP2Y>>
-//ItemDisplay[MAP !ID MAG MAPTIER=3]: %RED%O %BLUE%%NAME% %RED%O %CORAL%[T3] <<MAP3R>>
-//ItemDisplay[MAP !ID RARE MAPTIER=3]: %RED%O %TAN%%NAME% %RED%O %CORAL%[T3] <<MAP3R>>
+ItemDisplay[MAP !ID MAG MAPTIER=2]: %YELLOW%O %BLUE%%NAME% %YELLOW%O %CORAL%[T2] <<MAP2Y>>
+ItemDisplay[MAP !ID RARE MAPTIER=2]: %YELLOW%O %TAN%%NAME% %YELLOW%O %CORAL%[T2] <<MAP2Y>>
+ItemDisplay[MAP !ID MAG MAPTIER=3]: %RED%O %BLUE%%NAME% %RED%O %CORAL%[T3] <<MAP3R>>
+ItemDisplay[MAP !ID RARE MAPTIER=3]: %RED%O %TAN%%NAME% %RED%O %CORAL%[T3] <<MAP3R>>
 //ItemDisplay[MAP ID MAG MAPTIER=2]: %BLUE%%NAME% %CORAL%T2 %DGREEN%[L%ILVL%] <<MAP2Y>>
 //ItemDisplay[MAP ID RARE MAPTIER=2]: %YELLOW%%NAME% %CORAL%T2 %DGREEN%[L%ILVL%] %CONTINUE% <<MAP2Y>>
-//ItemDisplay[MAP ID (RARE OR MAG) ma10]: %YELLOW%%NAME% {%ORANGE%Physical,%RED% Fire,%BLUE% Cold%NL%%WHITE%Randomly Picks 2 Immunities from:} // Icy Cavern
-//ItemDisplay[MAP ID (RARE OR MAG) ma4]: %YELLOW%%NAME% {%GOLD% Magic,%GREEN% Poison,%YELLOW% Lightning%NL%%WHITE%Randomly Picks 2 Immunities from:} // Desecrated Temple
-//ItemDisplay[MAP ID (RARE OR MAG) ma9]: %YELLOW%%NAME% {%RED% Fire,%BLUE% Cold,%YELLOW% Lightning%NL%%WHITE%Randomly Picks 2 Immunities from:} // Dim Cellar
-//ItemDisplay[MAP ID (RARE OR MAG) ma14]: %YELLOW%%NAME% {%RED% Fire,%GREEN% Poison,%YELLOW% Lightning%NL%%WHITE%Randomly Picks 2 Immunities from:} // Abyssal Furnace
-//ItemDisplay[MAP ID MAG MAPTIER=3]: %BLUE%%NAME% %CORAL%T3%DGREEN% [L%ILVL%] %CONTINUE% <<MAP3R>>
-//ItemDisplay[MAP ID RARE MAPTIER=3]: %RED%%NAME% %CORAL%T3%DGREEN% [L%ILVL%] %CONTINUE% <<MAP3R>>
-//ItemDisplay[MAP ID (RARE OR MAG) ma2]: %RED%%NAME% {%ORANGE%Physical,%RED% Fire,%BLUE% Cold,%GREEN% Poison,%YELLOW% Lightning%NL%%WHITE%Randomly Picks 4 Immunities from:} // Forgotten Desert
-//ItemDisplay[MAP ID (RARE OR MAG) ma5]: %RED%%NAME% {%ORANGE%Physical,%RED% Fire,%BLUE% Cold,%GREEN% Poison%NL%%WHITE%Randomly Picks 3 Immunities from:} // Frigid Plateau
-//ItemDisplay[MAP ID (RARE OR MAG) ma6]: %RED%%NAME% {%ORANGE%Physical,%RED% Fire,%BLUE% Cold,%GREEN% Poison,%YELLOW% Lightning%NL%%WHITE%Randomly Picks 4 Immunities from:} // Ruined Citadel
-//ItemDisplay[MAP ID (RARE OR MAG) ma7]: %RED%%NAME% {%ORANGE%Physical,%GOLD% Magic,%RED% Fire,%BLUE% Cold,%GREEN% Poison,%YELLOW% Lightning%NL%%WHITE%Randomly Picks 4 Immunities from:} // Burnt Forest
-//ItemDisplay[MAP ID (RARE OR MAG) ma8]: %RED%%NAME% {%ORANGE%Physical,%RED% Fire,%BLUE% Cold,%GREEN% Poison,%YELLOW% Lightning%NL%%WHITE%Randomly Picks 4 Immunities from:} // Musty Crypt
-//ItemDisplay[MAP ID (RARE OR MAG)]: %WHITE%%NAME% %CORAL%T1 %DGREEN%[L%ILVL%] %CONTINUE% <<MAP1W>>
-//ItemDisplay[MAP ID (RARE OR MAG) ma12]: %WHITE%%NAME% {%ORANGE%Physical,%GOLD% Magic,%RED% Fire,%BLUE% Cold,%GREEN% Poison,%YELLOW% Lightning%NL%%WHITE%Randomly Picks 1 Immunities from:} // Baleful Alcazar
-//ItemDisplay[MAP ID (RARE OR MAG) ma13]: %WHITE%%NAME% {%ORANGE%Physical,%GOLD% Magic,%RED% Fire,%BLUE% Cold,%GREEN% Poison,%YELLOW% Lightning%NL%%WHITE%Randomly Picks 1 Immunities from:} // Decayed Ziggurat
-//ItemDisplay[MAP ID (RARE OR MAG) ma15]: %WHITE%Ravaged Town Relic%NL%%ITEMNAME% %CORAL%T1 %DGREEN%[L%ILVL%] {%ORANGE%Physical,%GOLD% Magic,%RED% Fire,%BLUE% Cold,%GREEN% Poison,%YELLOW% Lightning%NL%%WHITE%Randomly Picks 1 Immunities from:} // Ravaged Town
-//ItemDisplay[MAP ID (RARE OR MAG) ma19]: %WHITE%Northern Wall Relic%NL%%ITEMNAME% %CORAL%T1 %DGREEN%[L%ILVL%] {%ORANGE%Physical,%GOLD% Magic,%RED% Fire,%BLUE% Cold,%GREEN% Poison,%YELLOW% Lightning%NL%%WHITE%Randomly Picks 1 Immunities from:} // Northern Wall
-//ItemDisplay[MAP !ID (RARE OR MAG)]: %WHITE%O %TAN%%NAME% %WHITE%O %CORAL%[T1]<<MAP1W>>
+ItemDisplay[MAP ID (RARE OR MAG) ma10]: %YELLOW%%NAME% {%ORANGE%Physical,%RED% Fire,%BLUE% Cold%NL%%WHITE%Randomly Picks 2 Immunities from:} // Icy Cavern
+ItemDisplay[MAP ID (RARE OR MAG) ma4]: %YELLOW%%NAME% {%GOLD% Magic,%GREEN% Poison,%YELLOW% Lightning%NL%%WHITE%Randomly Picks 2 Immunities from:} // Desecrated Temple
+ItemDisplay[MAP ID (RARE OR MAG) ma9]: %YELLOW%%NAME% {%RED% Fire,%BLUE% Cold,%YELLOW% Lightning%NL%%WHITE%Randomly Picks 2 Immunities from:} // Dim Cellar
+ItemDisplay[MAP ID (RARE OR MAG) ma14]: %YELLOW%%NAME% {%RED% Fire,%GREEN% Poison,%YELLOW% Lightning%NL%%WHITE%Randomly Picks 2 Immunities from:} // Abyssal Furnace
+ItemDisplay[MAP ID MAG MAPTIER=3]: %BLUE%%NAME% %CORAL%T3%DGREEN% [L%ILVL%] %CONTINUE% <<MAP3R>>
+ItemDisplay[MAP ID RARE MAPTIER=3]: %RED%%NAME% %CORAL%T3%DGREEN% [L%ILVL%] %CONTINUE% <<MAP3R>>
+ItemDisplay[MAP ID (RARE OR MAG) ma2]: %RED%%NAME% {%ORANGE%Physical,%RED% Fire,%BLUE% Cold,%GREEN% Poison,%YELLOW% Lightning%NL%%WHITE%Randomly Picks 4 Immunities from:} // Forgotten Desert
+ItemDisplay[MAP ID (RARE OR MAG) ma5]: %RED%%NAME% {%ORANGE%Physical,%RED% Fire,%BLUE% Cold,%GREEN% Poison%NL%%WHITE%Randomly Picks 3 Immunities from:} // Frigid Plateau
+ItemDisplay[MAP ID (RARE OR MAG) ma6]: %RED%%NAME% {%ORANGE%Physical,%RED% Fire,%BLUE% Cold,%GREEN% Poison,%YELLOW% Lightning%NL%%WHITE%Randomly Picks 4 Immunities from:} // Ruined Citadel
+ItemDisplay[MAP ID (RARE OR MAG) ma7]: %RED%%NAME% {%ORANGE%Physical,%GOLD% Magic,%RED% Fire,%BLUE% Cold,%GREEN% Poison,%YELLOW% Lightning%NL%%WHITE%Randomly Picks 4 Immunities from:} // Burnt Forest
+ItemDisplay[MAP ID (RARE OR MAG) ma8]: %RED%%NAME% {%ORANGE%Physical,%RED% Fire,%BLUE% Cold,%GREEN% Poison,%YELLOW% Lightning%NL%%WHITE%Randomly Picks 4 Immunities from:} // Musty Crypt
+ItemDisplay[MAP ID (RARE OR MAG)]: %WHITE%%NAME% %CORAL%T1 %DGREEN%[L%ILVL%] %CONTINUE% <<MAP1W>>
+ItemDisplay[MAP ID (RARE OR MAG) ma12]: %WHITE%%NAME% {%ORANGE%Physical,%GOLD% Magic,%RED% Fire,%BLUE% Cold,%GREEN% Poison,%YELLOW% Lightning%NL%%WHITE%Randomly Picks 1 Immunities from:} // Baleful Alcazar
+ItemDisplay[MAP ID (RARE OR MAG) ma13]: %WHITE%%NAME% {%ORANGE%Physical,%GOLD% Magic,%RED% Fire,%BLUE% Cold,%GREEN% Poison,%YELLOW% Lightning%NL%%WHITE%Randomly Picks 1 Immunities from:} // Decayed Ziggurat
+ItemDisplay[MAP ID (RARE OR MAG) ma15]: %WHITE%Ravaged Town Relic%NL%%ITEMNAME% %CORAL%T1 %DGREEN%[L%ILVL%] {%ORANGE%Physical,%GOLD% Magic,%RED% Fire,%BLUE% Cold,%GREEN% Poison,%YELLOW% Lightning%NL%%WHITE%Randomly Picks 1 Immunities from:} // Ravaged Town
+ItemDisplay[MAP ID (RARE OR MAG) ma19]: %WHITE%Northern Wall Relic%NL%%ITEMNAME% %CORAL%T1 %DGREEN%[L%ILVL%] {%ORANGE%Physical,%GOLD% Magic,%RED% Fire,%BLUE% Cold,%GREEN% Poison,%YELLOW% Lightning%NL%%WHITE%Randomly Picks 1 Immunities from:} // Northern Wall
+ItemDisplay[MAP !ID (RARE OR MAG)]: %WHITE%O %TAN%%NAME% %WHITE%O %CORAL%[T1]<<MAP1W>>
 // -------------------------------------------------------------------------
 // WIRT'S LEG							              
 // -------------------------------------------------------------------------
@@ -1462,7 +1462,7 @@ ItemDisplay[SET SOCK>0]: %NAME% %ORANGE%[%SOCKETS%]<<BASIC>>
 ItemDisplay[UNI !cm1 !cm2 !cm3]: %NAME%<<BASIC>>
 ItemDisplay[SET !cm1 !cm2 !cm3]: %NAME%<<BASIC>>
 //Remove shield/armor/helm with shit sockets
-ItemDisplay[NMAG EQ3 !CL3 !RW SOCK=3 DIFFICULTY<1]: %NAME% %GREEN%[%SOCKETS%]{%GRAY%Ancient's Pledge%NL%%PURPLE%Ancestor's Pride: %WHITE%Ral %SAGE%+ %LIGHT_GRAY%Ort %SAGE%+ %WHITE%Tal}<<BASICMED>> 
+ItemDisplay[NMAG EQ3 !CL3 !RW SOCK=3 DIFFICULTY<1]: %NAME% %GREEN%[%SOCKETS%]{%GRAY%Ancient's Pledge%NL%%PURPLE%Ancients Pledge: %WHITE%Ral %SAGE%+ %LIGHT_GRAY%Ort %SAGE%+ %WHITE%Tal}<<BASICMED>> 
 ItemDisplay[NMAG EQ3 !RW SOCK=1]:
 ItemDisplay[NMAG EQ3 !CL3 !RW (SOCK=2 OR SOCK=3) CLVL>60]:
 ItemDisplay[NMAG EQ2 !RW SOCK=1 CLVL>40]:
@@ -2401,6 +2401,8 @@ ItemDisplay[NMAG !RW ILVL>14 (bar OR 9b7 OR 7o7)]:
 ItemDisplay[NMAG !RW ILVL>14 (vou OR 9vo OR scy OR 9s8 OR pax OR 9pa OR hal OR 9h9 OR wsc OR 9wc)]:
 ItemDisplay[NMAG !RW ILVL>14 !SOCK=4 !SOCK=0 (7vo OR 7s8 OR 7pa OR 7h7 OR 7wc)]:
 //Bow Xbow
+ItemDisplay[NMAG 6rx SOCK=4 FILTERLVL=1]: %DGREEN%%NAME% %PURPLE%[%SOCKETS%]
+ItemDisplay[NMAG 6rx SOCK=4 !FILTERLVL=1]:
 ItemDisplay[NMAG !RW ILVL>14 (sbw OR 8sb OR 6sb OR hbw OR 8hb OR 6hb OR lbw OR 8lb OR 6lb OR cbw OR 8cb OR sbb OR 8s8 OR 6s7 OR lbb OR 8l8 OR 6l7 OR swb OR 8sw OR 6sw OR lwb OR 8lw OR 6lw OR lxb OR 8lx OR 6lx OR mxb OR 8mx OR 6mx OR hxb OR 8hx OR 6hx OR rxb OR 8rx OR 6rx)]:
 ItemDisplay[NMAG !RW ILVL>14 !SOCK=4 6cb]:
 //Armor (Helm, Body, Shield, Glove, Boot, Belt, Circlet
